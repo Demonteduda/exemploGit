@@ -16,5 +16,10 @@ namespace exemploGit
         {
             InitializeComponent();
         }
+
+        private void btnCadastrar_Click(object sender, EventArgs e)
+        {
+          //  MessageBox.Show("cadastro realizado com sucesso", MessageBoxButtons.OK );
+        }
     }
 }
